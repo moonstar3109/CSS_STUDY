@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="Controller.MainController"/>
+<fullyQualifiedTypeName name="main.server.GetListService"/>
+<fullyQualifiedTypeName name="b.service.BoardService"/>
+<fullyQualifiedTypeName name="b.service.GetListService"/>
+</qualifiedTypeNameHistroy>
